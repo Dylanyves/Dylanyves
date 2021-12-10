@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dylanyves
 - 👀 I’m interested in Science and Tech
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 📫 Twitter @Sceeinc002
 
 <!---
